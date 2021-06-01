@@ -1,0 +1,72 @@
+{
+    "configuration": {
+        "currency": {
+            "options": {
+                "allow": {
+                    "website": {
+                        "luma_euro": "EUR"
+                    }
+                },
+                "base": {
+                    "website": {
+                        "luma_euro": "EUR"
+                    }
+                },
+                "default": {
+                    "website": {
+                        "luma_euro": "EUR"
+                    }
+                }
+            }
+        },
+        "shipping": {
+            "origin": {
+                "city": {
+                    "website": {
+                        "luma_euro": "Amsterdam"
+                    }
+                },
+                "country_id": {
+                    "website": {
+                        "luma_euro": "NL"
+                    }
+                },
+                "postcode": {
+                    "website": {
+                        "luma_euro": "1101BE"
+                    }
+                },
+                "street_line1": {
+                    "website": {
+                        "luma_euro": "Hoogoorddreef 54-a"
+                    }
+                }
+            }
+        },
+        "general": {
+            "country": {
+                "default": {
+                    "store_view": {
+                        "luma_de_de": "DE"
+                    }
+                }
+            },
+            "locale": {
+                "code": {
+                    "store_view": {
+                        "luma_de_de": "de_DE"
+                    }
+                }
+            }
+        },
+        "tax": {
+            "defaults": {
+                "country": {
+                    "store_view": {
+                        "luma_de_de": "DE"
+                    }
+                }
+            }
+        }
+    }
+}

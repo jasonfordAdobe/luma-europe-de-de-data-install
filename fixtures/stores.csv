@@ -1,0 +1,2 @@
+site_code,site_name,site_order,is_default_site,store_code,store_name,store_root_category,is_default_store,store_view_code,view_name,is_default_view,view_order,view_is_active,theme
+luma_euro,Luma EURO,200,,luma_de,Luma Germany Store,Luma Europe Catalogue,,luma_de_de,Deutsch,Y,100,Y,Magento/luma

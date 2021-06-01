@@ -9,6 +9,7 @@
     <module name="Jason_LumaEuropeDEDE">
         <sequence>
             <module name="Jason_LumaEurope"/>
+            <module name="Jason_LumaEuropeNewProducts"/>
         </sequence>
     </module>
 </config>
